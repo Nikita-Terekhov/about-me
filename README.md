@@ -1,4 +1,4 @@
-I am a Junior Frontend Developer.
+# I am a Junior Frontend Developer.
 
 👀 I’m interested in web3
 
